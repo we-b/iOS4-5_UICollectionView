@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "first_collectionView/ViewController.swift"
+            timestampString = "450322746.920422"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "first_collectionView.ViewController.images.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "first_collectionView"
+                  urlString = "file:///Users/matsushitakeita/Sites/iOS_fighters/first_collectionView/first_collectionView/ViewController.swift"
+                  timestampString = "450337529.785108"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "first_collectionView.ViewController.images.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "first_collectionView"
+                  urlString = "file:///Users/matsushitakeita/Sites/iOS_fighters/first_collectionView/first_collectionView/ViewController.swift"
+                  timestampString = "450337529.842065"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "first_collectionView.ViewController.images.materializeForSet : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "first_collectionView"
+                  urlString = "file:///Users/matsushitakeita/Sites/iOS_fighters/first_collectionView/first_collectionView/ViewController.swift"
+                  timestampString = "450337529.842304"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "first_collectionView.ViewController.init (first_collectionView.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; first_collectionView.ViewController"
+                  moduleName = "first_collectionView"
+                  urlString = "file:///Users/matsushitakeita/Sites/iOS_fighters/first_collectionView/first_collectionView/ViewController.swift"
+                  timestampString = "450337529.84359"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "163">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "first_collectionView.ViewController.init (first_collectionView.ViewController.Type)() -&gt; first_collectionView.ViewController"
+                  moduleName = "first_collectionView"
+                  urlString = "file:///Users/matsushitakeita/Sites/iOS_fighters/first_collectionView/first_collectionView/ViewController.swift"
+                  timestampString = "450337529.843946"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "110">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "first_collectionView.ViewController.init (first_collectionView.ViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; first_collectionView.ViewController"
+                  moduleName = "first_collectionView"
+                  urlString = "file:///Users/matsushitakeita/Sites/iOS_fighters/first_collectionView/first_collectionView/ViewController.swift"
+                  timestampString = "450337529.844105"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "118">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "first_collectionView/ViewController.swift"
+            timestampString = "450364165.561541"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "displayImageView(_:indexPath:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
